@@ -1,4 +1,3 @@
-# Airbus-Ship-Detection-CNN
 # Airbus Ship Detection Using CNN
 
 ## Project Overview
