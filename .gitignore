@@ -1,0 +1,18 @@
+# Dataset and extracted images
+*.zip
+train_v2/
+test_v2/
+full_dataset/
+
+# Credentials and secrets
+kaggle.json
+.env
+.env.*
+
+# Model checkpoints and large model files
+*.keras
+*.h5
+
+# Python temporary files
+__pycache__/
+.ipynb_checkpoints/
