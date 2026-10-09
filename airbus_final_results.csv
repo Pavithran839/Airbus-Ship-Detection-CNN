@@ -1,0 +1,9 @@
+Metric,Result
+Test Images,3000
+Test Accuracy,88.17%
+Precision,87.64%
+Recall,88.87%
+F1-Score,88.25%
+Test Loss,0.2991
+Image Size,128 x 128 pixels
+Classes,Ship / No Ship
